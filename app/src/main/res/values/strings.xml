@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="bmi">BMI</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+    <string name="textview">TextView</string>
+    <string name="disc">disc</string>
+    <string name="back">Back</string>
+    <string name="button">Button</string>
+    <string name="about_developer">About Developer</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/anton</item>
+        <item>@font/finger_paint</item>
+        <item>@font/fredoka_one</item>
+        <item>@font/krona_one</item>
+        <item>@font/monoton</item>
+        <item>@font/stalinist_one</item>
+        <item>@font/titan_one</item>
+    </array>
+</resources>
